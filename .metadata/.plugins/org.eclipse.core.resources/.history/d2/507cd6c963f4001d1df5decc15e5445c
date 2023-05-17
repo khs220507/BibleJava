@@ -1,0 +1,13 @@
+package ch06;
+
+public class Ex6_7 {
+	public static void main(String[] args) {
+	
+	}
+	
+	static void change(Data2 d) {
+		d.x = 1000;
+		System.out.println("change() : x = " + d.x);
+	}
+
+}
