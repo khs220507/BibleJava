@@ -1,0 +1,15 @@
+package ch06;
+
+class Car2{
+	String color;
+	String gearType;
+	int door;
+	
+	Car2(){
+		this("white", "auto", 4);
+	}
+}
+
+public class Ex6_13 {
+
+}
