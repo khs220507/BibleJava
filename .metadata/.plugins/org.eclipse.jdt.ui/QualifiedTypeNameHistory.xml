@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="ch06.MyMath3"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="ch07.Child"/>
+    <fullyQualifiedTypeName name="ch07.Child2"/>
 </qualifiedTypeNameHistroy>
